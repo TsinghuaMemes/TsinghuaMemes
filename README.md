@@ -6,9 +6,9 @@
 
 本文档目前由以下两部分组成：
 
-[误入清华：新生导引手册](/误入清华：新生指引手册/误入清华：新生指引手册.md)
+- [误入清华：新生导引手册](/误入清华：新生指引手册/误入清华：新生指引手册.md)
 
-[梗字典](/梗字典/梗字典.md)
+- [梗字典](/梗字典/梗字典.md)
 
 如果对文档部分内容有异议，可以提出 [issue](https://github.com/TsinghuaMemes/TsinghuaMemes/issues) 或 [pull request](https://github.com/TsinghuaMemes/TsinghuaMemes/pulls)。如果有意加入我们，对文档进行长期维护，请联系团队所有者。
 
