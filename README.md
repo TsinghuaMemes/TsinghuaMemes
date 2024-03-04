@@ -1,4 +1,4 @@
-# TsinghuaMemes
+# [TsinghuaMemes](https://github.com/TsinghuaMemes/TsinghuaMemes)
 
 ### _清华新生导引 & 梗字典_
 
@@ -10,7 +10,7 @@
 
 [梗字典](/梗字典/梗字典.md)
 
-如果对文档部分内容有异议，可以提出 issue 或 pull request。如果有意加入我们，对文档进行长期维护，请联系团队所有者。
+如果对文档部分内容有异议，可以提出 [issue](https://github.com/TsinghuaMemes/TsinghuaMemes/issues) 或 [pull request](https://github.com/TsinghuaMemes/TsinghuaMemes/pulls)。如果有意加入我们，对文档进行长期维护，请联系团队所有者。
 
 ### Disclaimer
 
