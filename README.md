@@ -1,4 +1,4 @@
-# [TsinghuaMemes](https://github.com/TsinghuaMemes/TsinghuaMemes)
+# TsinghuaMemes
 
 ### _清华新生导引 & 梗字典_
 
