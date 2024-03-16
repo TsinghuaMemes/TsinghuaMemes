@@ -1,0 +1,29 @@
+name: Merge develop to main
+
+on:
+  schedule:
+    # At 08:00 UTC+8 on Monday
+    - cron:  '0 0 * * 1'
+
+jobs:
+  createPullRequest:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        ref: 'develop'
+        
+    - name: Set up Git
+      run: |
+        git config --global user.name 'Jerry'
+        git config --global user.email '57851723+SphenHe@users.noreply.github.com'
+        
+    - name: Create Pull Request
+      uses: repo-sync/pull-request@v2
+      with:
+        github_token: ${{ secrets.TSINGHUAMEMES_AUTO_PR }}
+        pr_title: "Weekly PR"
+        pr_body: "Weekly automated PR to merge develop into main"
+        destination_branch: "main"
+        source_branch: "develop"
