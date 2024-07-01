@@ -2,9 +2,6 @@ name: 错误信息 / Misinformation report
 description: 报告错误信息以帮助我们改进 / Report misinformation to help us improve
 title: "[Misinfo]: "
 labels: ["documentation", "misinformation"]
-# projects: ["octo-org/1", "octo-org/44"]
-# assignees:
-#   - octocat
 body:
   - type: markdown
     attributes:
