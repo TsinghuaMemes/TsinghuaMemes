@@ -1,0 +1,66 @@
+name: 错误信息 / Misinformation report
+description: 报告错误信息以帮助我们改进 / Report misinformation to help us improve
+title: "[Misinfo]: "
+labels: ["documentation", "misinformation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **感谢您的反馈！请填写以下信息以帮助我们改进。**
+        **Thank you for your feedback! Please fill out the following information to help us improve.**
+  - type: checkboxes
+    id: agree-not-to-abuse
+    attributes:
+      label: 
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: 我已经查看了[已有的 issues](https://github.com/TsinghuaMemes/TsinghuaMemes/issues)并确认我的问题尚未解决。/ I have looked at the [existing issues](https://github.com/TsinghuaMemes/TsinghuaMemes/issues) and confirmed that my issue has not been resolved.
+          required: true
+        - label: 我已经查看了[已有的 pull requests](我确认我正在使用最新版本的文档。/ I confirm that I am using the latest version of the documentation.
+          required: true
+        - label: 我已经查看了[反馈指南](https://github.com/TsinghuaMemes/TsinghuaMemes/blob/main/issues.md)并确认应该在这里提交问题。/ I have looked at the [feedback guidelines](https://github.com/TsinghuaMemes/TsinghuaMemes/blob/main/issues.md) and confirmed that I should submit the issue here.
+          required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: 文档 / Documentation
+      description: 请选择存在信息错误的文档。/ Please select the documentation where you found the misinformation.
+      options:
+        - 梗字典
+        - 误入清华：新生指引手册
+        - 饭饭推荐/营业时间
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: page-line
+    attributes:
+      label: 出错行数（或位置）/ Line number (or location)
+      description: 请提供出错的行数或位置。/ Please provide the line number or location where you found the misinformation.
+      placeholder: 第22行/Line 22；第三段第二句/The second sentence of the third paragraph
+    validations:
+      required: true
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: 错误的内容 / Misinformation
+      description: 请描述您发现的错误信息。/ Please describe the misinformation you found.
+      placeholder: 错误的内容 / Misinformation
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: 正确的内容 / Correct information
+      description: 请写下正确的信息。/ Please write down the correct information.
+      placeholder: 正确的内容 / Correct information
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 请提供正确信息来源 / Please provide the source of the correct information
+      description: 请提供正确信息的来源。/ Please provide the source of the correct information.
+      placeholder: https://www.example.com
+    validations:
+      required: true
