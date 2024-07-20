@@ -8,7 +8,7 @@
 
 如果对文档内容有异议或想要分享更多的内容，可以提出 [issue](https://github.com/TsinghuaMemes/TsinghuaMemes/issues) 或提交 [pull request](https://github.com/TsinghuaMemes/TsinghuaMemes/pulls)。
 
-如果有意加入我们，对文档进行长期维护，请联系团队所有者。
+如果有意加入我们，对文档进行长期维护，请联系团队所有者，或[发送邮件](mailto:mail@thuhelper.com)。
 
 ## 许可
 
