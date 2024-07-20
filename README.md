@@ -2,11 +2,11 @@
 
 ## 简介
 
-本文档在 [GitHub](https://github.com/TsinghuaMemes/TsinghuaMemes) 上进行维护，并在 [GitBook](https://tsinghuamemes.gitbook.io/tsinghuamemes) 上发布便于阅读的版本。如果需要查看最新内容，请访问预览版本：[GitHub-preview](https://github.com/TsinghuaMemes/TsinghuaMemes/tree/develop) & [GitBook-preview](https://tsinghuamemes.gitbook.io/tsinghuamemes-develop)
+本文档在 [GitHub](https://github.com/TsinghuaMemes/TsinghuaMemes) 上进行维护，并在 [TsinghuaMemes-thuhelper](https://book.thuhelper.com) 上发布便于阅读的版本。备用链接：[TsinghuaMemes-GitBook](https://tsinghuamemes.gitbook.io)
 
 ## 贡献
 
-如果对文档内容有异议或想要分享更多的内容，可以提出 [issue](https://github.com/TsinghuaMemes/TsinghuaMemes/issues) 或提交 [pull request](https://github.com/TsinghuaMemes/TsinghuaMemes/pulls) 到 `develop` 分支。
+如果对文档内容有异议或想要分享更多的内容，可以提出 [issue](https://github.com/TsinghuaMemes/TsinghuaMemes/issues) 或提交 [pull request](https://github.com/TsinghuaMemes/TsinghuaMemes/pulls)。
 
 如果有意加入我们，对文档进行长期维护，请联系团队所有者。
 
