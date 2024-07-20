@@ -31,7 +31,7 @@
 * [饭饭推荐](eating/饭饭推荐/README.md)
     * [外卖推荐](eating/饭饭推荐/data/外卖推荐.md)
     * [蹲个安利](eating/饭饭推荐/data/蹲个安利.md)
-    * [食堂推荐](eating/饭饭推荐/data/食堂推荐.md)
+    * [食堂安利](eating/饭饭推荐/data/食堂安利.md)
     * [餐厅推荐](eating/饭饭推荐/data/餐厅推荐.md)
 
 ## 交通出行
