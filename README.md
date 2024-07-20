@@ -4,10 +4,13 @@
 
 本仓库主要面向入学清华的新生，并为之提供一些实用信息，使其能够更好地适应清华的学习和生活。文档由以下三部分组成：
 
-- [暑期特供——树洞打假](./打假/打假.md)
-- [误入清华：新生导引手册](./误入清华：新生指引手册/误入清华：新生指引手册.md)
-- [梗字典](./梗字典/梗字典.md)
-- [饭饭推荐](./饭饭推荐/README.md)
+- [暑期特供——树洞打假](./fake/打假.md)
+- [学习](./study)
+- [日常生活](./living)
+- [饮食](./eating)
+- [交通出行](./transport)
+- [新生指引](./new)
+
 
 本文档在 [GitHub](https://github.com/TsinghuaMemes/TsinghuaMemes) 上进行维护，并在 [GitBook](https://tsinghuamemes.gitbook.io/tsinghuamemes) 上发布便于阅读的版本。如果需要查看最新内容，请访问预览版本：[GitHub-preview](https://github.com/TsinghuaMemes/TsinghuaMemes/tree/develop) & [GitBook-preview](https://tsinghuamemes.gitbook.io/tsinghuamemes-develop)
 
