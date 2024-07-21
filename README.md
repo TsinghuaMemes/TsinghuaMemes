@@ -2,6 +2,8 @@
 
 ## 简介
 
+本仓库主要面向入学清华的新生，并为之提供一些实用信息，使其能够更好地适应清华的学习和生活。
+
 本文档在 [GitHub](https://github.com/TsinghuaMemes/TsinghuaMemes) 上进行维护，并在 [TsinghuaMemes-thuhelper](https://book.thuhelper.com) 上发布便于阅读的版本。备用链接：[TsinghuaMemes-GitBook](https://tsinghuamemes.gitbook.io)
 
 ## 贡献
@@ -21,7 +23,3 @@
 本仓库文档并非由清华大学官方创建或维护，文档内容仅代表个人观点，不代表清华大学官方立场。
 
 本仓库文档内容仅供参考，不保证准确性和完整性，使用者需要对文档内容进行甄别。对于使用文档内容所引发的任何问题，本仓库团队不承担任何责任。
-
-## 致谢
-
-感谢为本文档提供大致框架的[USTC不完全入学指南](https://ustcguide.gitbook.io)。本文在重构的过程中，参考了该文档的部分内容。
